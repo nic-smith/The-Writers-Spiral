@@ -1,0 +1,162 @@
+﻿/* Resetting some default styles of the browser */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f4f4f4;
+}
+
+a {
+    color: royalblue;
+    text-decoration: none;
+}
+
+    a:hover {
+        text-decoration: underline;
+    }
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #333;
+    color: white;
+    padding: 0.5rem 2rem;
+}
+
+#logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #333;
+    padding: 10px 20px;
+    color: white;
+    border-bottom-right-radius: 10px;
+    z-index: 999;
+}
+
+#search {
+    padding: 0.5rem;
+    font-size: 1rem;
+}
+
+#profile {
+    display: flex;
+    align-items: center;
+}
+
+    #profile a {
+        margin-left: 10px;
+        display: inline-block;
+        padding: 0.5rem 1rem;
+        background-color: royalblue;
+        color: white;
+        border-radius: 5px;
+        transition: background-color 0.3s;
+    }
+
+        #profile a:hover {
+            background-color: darkblue;
+        }
+
+#main-content {
+    max-width: 1200px;
+    margin: 2rem auto;
+    padding: 1rem;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#motto {
+    font-size: 1.5rem;
+    color: royalblue;
+    margin-bottom: 1rem;
+}
+
+#featured-stories,
+#trending-branches,
+#recommended-stories {
+    margin-bottom: 1rem;
+}
+
+aside {
+    max-width: 300px;
+    margin: 2rem auto;
+    padding: 1rem;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+    text-align: center;
+    padding: 1rem 0;
+    background-color: #333;
+    color: white;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+    footer a {
+        color: white;
+        margin: 0 5px;
+    }
+
+        footer a:hover {
+            text-decoration: underline;
+        }
+
+/* Bookmark Navigation Styles */
+.bookmark-nav {
+    position: fixed;
+    top: 50%;
+    left: 0;
+    transform: translateY(-50%);
+    background-color: #f9f9f9;
+    border-radius: 0 10px 10px 0;
+    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+    z-index: 1000;
+}
+
+.bookmark {
+    display: block;
+    padding: 10px 20px;
+    color: #555;
+    text-decoration: none;
+    border-bottom: 1px solid #ddd;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+    .bookmark:hover {
+        background-color: #eee;
+        color: #333;
+    }
+
+    .bookmark.active {
+        background-color: #4CAF50;
+        color: #fff;
+    }
+
+    .bookmark::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        right: 0;
+        width: 10px;
+        height: 100%;
+        background-color: #4CAF50;
+        border-radius: 0 10px 10px 0;
+        transition: background-color 0.3s;
+    }
+
+    .bookmark.active::before {
+        background-color: #333;
+    }

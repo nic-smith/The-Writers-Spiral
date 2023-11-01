@@ -1,0 +1,64 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - The Writer's Spiral</title>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <!-- Your Custom CSS -->
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/styles.css" asp-append-version="true" />
+</head>
+<body>
+    <header>
+        <!-- Main Navigation -->
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <!-- ... (same as your provided code) ... -->
+        </nav>
+        <!-- Secondary Navigation / User Profile -->
+        <div id="profile">
+            <span>Welcome, <strong>@Context.User.FindFirst("PenName")?.Value</strong></span>
+            @if (Context.User.Identity.IsAuthenticated)
+            {
+                <form method="post" asp-page-handler="/Logout" style="display:inline-block;">
+                    <button type="submit" class="btn btn-link">Logout</button>
+                </form>
+            }
+            else
+            {
+                <a asp-page="/Account/Register" class="btn btn-link">Register</a>
+                <a asp-page="/Account/Login" class="btn btn-link">Login</a>
+            }
+        </div>
+    </header>
+
+    <main role="main" class="container">
+        @RenderBody()
+    </main>
+
+    <aside>
+        <div id="quick-start">Quick Start Guide Here</div>
+        <div id="mascot-corner">Mascot Tip Here</div>
+    </aside>
+
+    <footer class="footer mt-auto py-3 bg-light">
+        <div class="container">
+            <span class="text-muted">Place sticky footer content here.</span>
+            <div>
+                <a href="#">About</a> | <a href="#">Help</a> | <a href="#">Contact</a> | <a href="#">Feedback</a>
+            </div>
+        </div>
+    </footer>
+
+    <!-- jQuery and Bootstrap Bundle (includes Popper) -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
+    <!-- Your Custom JavaScript -->
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

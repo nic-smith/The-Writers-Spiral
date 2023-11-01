@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Register | The Writer's Spiral</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="registration-form">
+        <h2>Register for The Writer's Spiral</h2>
+        
+        <form action="/path_to_backend_logic" method="post">
+            <label for="username">Username:</label>
+            <input type="text" id="username" name="username" required>
+
+            <label for="penname">Pen Name:</label>
+            <input type="text" id="penname" name="penname" required>
+
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+
+            <label for="password">Password:</label>
+            <input type="password" id="password" name="password" required>
+            
+            <label for="usertype">Register as:</label>
+            <select id="usertype" name="usertype">
+                <option value="student">Student</option>
+                <option value="teacher">Teacher</option>
+            </select>
+
+            <input type="submit" value="Register">
+        </form>
+    </div>
+</body>
+</html>

@@ -1,0 +1,27 @@
+﻿@page
+@model SubmitStoryModel
+
+@{
+    Layout = "_Layout";
+}
+
+<h1>Submit Your Story</h1>
+
+<form method="post">
+    <div>
+        <label asp-for="StoryInput.Title"></label>
+        <input asp-for="StoryInput.Title" />
+        <span asp-validation-for="StoryInput.Title"></span>
+    </div>
+    <div>
+        <label asp-for="StoryInput.Genre"></label>
+        <select asp-for="StoryInput.Genre" asp-items="Html.GetEnumSelectList<GenreType>()"></select>
+        <span asp-validation-for="StoryInput.Genre"></span>
+    </div>
+    <div>
+        <label asp-for="StoryInput.Content"></label>
+        <textarea asp-for="StoryInput.Content" rows="10"></textarea>
+        <span asp-validation-for="StoryInput.Content"></span>
+    </div>
+    <button type="submit">Submit Story</button>
+</form>
