@@ -45,7 +45,7 @@ A reluctant trio ventures into a dense forest to uncover the mysteries of the Ve
 
 ### Chapter 1: Into the Unknown
 
-[Read Chapter 1](./markdown_text/chapters_md_text/chapter_1_md_text.txt)
+[Read Chapter 1](./The Writers Spiral/Storys/The Veil and the Machine/markdown/chapters_md/chapter_1_md.md)
 
 - Purpose: Establish the journey’s tone, the oppressive nature of the forest, and the group’s dynamics. Introduce Talon’s medallion as a guiding force while highlighting the mounting tension and dwindling resources.
 
