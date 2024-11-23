@@ -100,7 +100,7 @@ Atmosphere: Include a moment where Griffin grips the sword for comfort, emphasiz
 
 ### Chapter 2: Shelter and Secrets
 
-[Read Chapter 2](./markdown_text/chapters_md_text/chapter_2_md_text.txt)
+[Read Chapter 2](https://raw.githubusercontent.com/nic-smith/The-Writers-Spiral/refs/heads/master/The%20Writers%20Spiral/Storys/The%20Veil%20and%20the%20Machine/markdown/chapters_md/chapter_2_md.md)
 
 - Purpose: Shift the setting from the stormy forest to the eerie isolation of the cabin. Deepen the atmosphere and introduce the journal as a pivotal artifact. Emphasize the group’s growing tension, their dwindling resources, and the mystery of the Veil.
 
