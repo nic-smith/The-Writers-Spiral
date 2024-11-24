@@ -167,7 +167,7 @@ Paragraph 32: Griffin reflects on the sword’s significance during a quiet mome
 
 ### Chapter 3: The Veil’s Whisper
 
-[Read Chapter 3](./markdown_text/chapters_md_text/chapter_3_md_text.txt)
+[Read Chapter 3]([./markdown_text/chapters_md_text/chapter_3_md_text.txt](https://raw.githubusercontent.com/nic-smith/The-Writers-Spiral/refs/heads/master/The%20Writers%20Spiral/Storys/The%20Veil%20and%20the%20Machine/markdown/chapters_md/chapter_3_md.md))
 
 Purpose: This chapter transitions from the eerie stillness of the cabin to active problem-solving and discovery. It deepens the mystery of Dominic’s journal, builds tension within the group, and introduces hints of external threats.
 
