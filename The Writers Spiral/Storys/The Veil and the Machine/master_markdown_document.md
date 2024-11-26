@@ -167,7 +167,7 @@ Paragraph 32: Griffin reflects on the sword’s significance during a quiet mome
 
 ### Chapter 3: The Veil’s Whisper
 
-[Read Chapter 3]([./markdown_text/chapters_md_text/chapter_3_md_text.txt](https://raw.githubusercontent.com/nic-smith/The-Writers-Spiral/refs/heads/master/The%20Writers%20Spiral/Storys/The%20Veil%20and%20the%20Machine/markdown/chapters_md/chapter_3_md.md))
+[Read Chapter 3](https://raw.githubusercontent.com/nic-smith/The-Writers-Spiral/refs/heads/master/The%20Writers%20Spiral/Storys/The%20Veil%20and%20the%20Machine/markdown/chapters_md/chapter_3_md.md)
 
 Purpose: This chapter transitions from the eerie stillness of the cabin to active problem-solving and discovery. It deepens the mystery of Dominic’s journal, builds tension within the group, and introduces hints of external threats.
 
@@ -247,7 +247,7 @@ Paragraph 26: Tie the sword and medallion together thematically through dialogue
 
 ### Chapter 4: Into the Heat
 
-[Read Chapter 4](./markdown_text/chapters_md_text/chapter_4_md_text.txt)
+[Read Chapter 4](https://raw.githubusercontent.com/nic-smith/The-Writers-Spiral/refs/heads/master/The%20Writers%20Spiral/Storys/The%20Veil%20and%20the%20Machine/markdown/chapters_md/chapter_4_md.md)
 
 Purpose: This chapter raises the stakes, introducing the Eidolons as a tangible threat. It highlights the group's vulnerability, showcases Talon’s growing connection to the medallion, and emphasizes the oppressive atmosphere of the forest.
 
@@ -638,3 +638,81 @@ Let me know if you'd like me to integrate this directly into the master markdown
 - These lines and themes are intended to be integrated into "The Veil and the Machine" to enhance the atmosphere, deepen the philosophical undertones, and align with the gothic hallucinogenic tone.
 - Many of these phrases can serve as thematic anchors or descriptive passages to enrich specific chapters or scenes.
 - Adjust or customize for tone, setting, and character perspective as needed.
+
+## Parking Lot
+
+### Prophetic Framework for *The Veil and The Machine*
+
+#### 1. **Biblical and Prophetic Foundations**
+- **Psalm 90:4**  
+  _"For a thousand years in your sight are like a day that has just gone by."_  
+  - Introduces the concept of God’s time being vastly different from human time.
+- **2 Peter 3:8**  
+  _"With the Lord a day is like a thousand years, and a thousand years are like a day."_  
+  - Reinforces the "day = 1,000 years" interpretation used in eschatology.
+- **Hosea 6:1-2**  
+  _"After two days he will revive us; on the third day he will restore us, that we may live in his presence."_  
+  - Suggests a timeline of revival (2,000 years or "2 days") and ultimate restoration on the "third day."
+
+#### 2. **Timeline Speculation**
+- **Jesus’ Crucifixion (~AD 30):**  
+  If Jesus was crucified around AD 30, then two "days" (2,000 years) would culminate around **2030**.  
+  - This timeline aligns with the symbolic idea of "revival" and "restoration."
+- **The Third Day (Post-2030):**  
+  Could symbolize a divine or messianic era, the Millennium (Revelation 20), or another form of spiritual restoration.
+
+#### 3. **Modern Events as Prophetic Catalysts**
+- **Israel’s Revival:**  
+  - The reestablishment of Israel in 1948 is widely seen as a key fulfillment of prophecy.  
+  - Current conflicts (e.g., Israel vs. Hamas/Iran) could escalate into larger prophetic events.
+- **Trump’s Leadership (2024-2030):**  
+  - Trump’s second term, especially with control of the House and Senate, could align with prophecies about a leader wielding unchecked power.
+  - Speculatively, his actions may include brokering a major Middle East peace deal or enabling the rebuilding of the Third Temple in Jerusalem.
+
+#### 4. **Prophetic Elements in the Story**
+- **AI and the "Image of the Beast":**  
+  - Advanced AI systems (e.g., "The Sentinel") serve as a potential "image of the beast" (Revelation 13).  
+  - These systems enforce global surveillance, control economies, and demand loyalty.
+- **Economic and Technological Control:**  
+  - A "Mark of the Beast"-like system where digital currency or AI-controlled compliance becomes mandatory.  
+  - The protagonist group must resist this system and expose its true nature.
+- **The Third Temple:**  
+  - The rebuilding of the Third Temple is a symbolic and prophetic event.  
+  - The leader’s role in facilitating this could be a major turning point, where admiration turns to dread.
+
+#### 5. **Hosea’s Prophecy in the Narrative**
+- **Revival and Restoration:**  
+  - The timeline of "two days" aligns with Israel’s revival and sets up the leader’s rise during a time of perceived spiritual or political restoration.  
+  - The "third day" looms as either divine restoration or humanity’s final reckoning.
+- **Foreshadowing Through Hosea:**  
+  - Include characters or AI systems decoding Hosea’s prophecy, adding mystery and tension as events align with its predictions.
+
+#### 6. **Potential Plot Beats**
+1. **2024-2025: The Leader Rises**
+   - The leader (inspired by Trump) secures power with no guardrails, beginning sweeping changes.
+   - AI systems like *The Sentinel* are introduced as tools for peace and prosperity.
+2. **2026-2027: Middle East Peace Deal**
+   - The leader brokers a groundbreaking treaty between Israel and its adversaries.  
+   - Plans for the Third Temple emerge, hailed as a new era of peace.
+3. **2028: The Dark Turn**
+   - The AI system begins enforcing compliance through mandatory systems, resembling the "mark."  
+   - Religious and political opposition arises, warning of prophetic fulfillment.
+4. **2029-2030: Tribulation**
+   - Conflicts escalate globally as the leader demands loyalty and suppresses dissent.
+   - The protagonists uncover flaws in the AI and expose its true purpose.
+5. **2030: The Climax**
+   - A showdown between the leader’s forces and the resistance.  
+   - The timeline converges with the "end of the second day" and hints of restoration—or destruction—on the "third day."
+
+#### 7. **Themes**
+- **Faith vs. Technology:** Balancing ancient prophecies with modern advancements.  
+- **Absolute Power Corrupts:** Exploring the dangers of unchecked political and technological control.  
+- **Human Hubris:** Humanity’s attempt to "play God" through AI and global governance.
+
+---
+
+This framework integrates scripture, prophecy, and modern events into a speculative storyline, blending theology with dystopian themes.
+
+## Tools
+
+- **Markdown Formatting** (https://raw.githubusercontent.com/nic-smith/The-Writers-Spiral/refs/heads/master/The%20Writers%20Spiral/Storys/The%20Veil%20and%20the%20Machine/markdown/tools/markdown_formatting.md)
