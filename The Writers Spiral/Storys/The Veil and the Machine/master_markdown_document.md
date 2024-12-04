@@ -39,7 +39,7 @@ A reluctant trio ventures into a dense forest to uncover the mysteries of the Ve
 
 ## Prologue
 
-[Read Prologue](./markdown_text/chapters_md_text/prologue_md_text.txt)
+[Read Prologue]([./markdown_text/chapters_md_text/prologue_md_text.txt](https://raw.githubusercontent.com/nic-smith/The-Writers-Spiral/refs/heads/master/The%20Writers%20Spiral/Storys/The%20Veil%20and%20the%20Machine/markdown/chapters_md/prologue_md.md))
 
 -Introduces Talon's vision, immersing readers in a mysterious and unsettling realm. The setting is a landscape of jagged ruins and distorted silhouettes under a murky sky, with glowing ancient symbols hinting at a lost civilization or something even more sinister. This atmospheric opening establishes a tone of mystery and sets the stage for the deeper, eerie themes of the story.
 
