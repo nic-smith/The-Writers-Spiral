@@ -581,3 +581,19 @@ Talon nodded slowly, feeling the medallion’s pull stronger than ever, urging h
 Reinforces Talon’s quiet determination and leadership, despite the mounting tension and uncertainty.
 
 ---
+
+## Revisions
+
+### Rules for Revisions
+
+1. **Types of Changes**:
+   - **Addition**: New content added to the chapter.
+   - **Subtraction**: Existing content removed from the chapter. Includes original content for reference.
+   - **Revision**: Modified content within the chapter. Includes both original and revised content.
+2. **Format**:
+   - **Type:** Specify whether the change is an Addition, Subtraction, or Revision.
+   - **Date & Time:** Include the timestamp of when the change was made.
+   - **Content:** For additions, include the new content. For subtractions and revisions, include the original content and, for revisions, the updated version.
+   - **Reason:** Briefly explain why the change was made.
+
+---

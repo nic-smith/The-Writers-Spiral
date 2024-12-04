@@ -487,3 +487,21 @@ A heavy silence settled between them, the weight of the journal’s revelations 
 - **Notes**:
 
 The chapter closes with a focus on the group’s physical and emotional exhaustion, leaving a sense of unresolved tension and foreboding.
+
+---
+
+## Revisions
+
+### Rules for Revisions
+
+1. **Types of Changes**:
+   - **Addition**: New content added to the chapter.
+   - **Subtraction**: Existing content removed from the chapter. Includes original content for reference.
+   - **Revision**: Modified content within the chapter. Includes both original and revised content.
+2. **Format**:
+   - **Type:** Specify whether the change is an Addition, Subtraction, or Revision.
+   - **Date & Time:** Include the timestamp of when the change was made.
+   - **Content:** For additions, include the new content. For subtractions and revisions, include the original content and, for revisions, the updated version.
+   - **Reason:** Briefly explain why the change was made.
+
+---

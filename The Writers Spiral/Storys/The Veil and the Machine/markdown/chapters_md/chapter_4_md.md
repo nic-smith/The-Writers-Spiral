@@ -1823,3 +1823,21 @@ Here’s the markdown formatting for paragraphs 61–70:
 
 - **Notes** :  
   The closing note of foreboding effectively sets up the stakes for what lies ahead.
+
+---
+
+## Revisions
+
+### Rules for Revisions
+
+1. **Types of Changes**:
+   - **Addition**: New content added to the chapter.
+   - **Subtraction**: Existing content removed from the chapter. Includes original content for reference.
+   - **Revision**: Modified content within the chapter. Includes both original and revised content.
+2. **Format**:
+   - **Type:** Specify whether the change is an Addition, Subtraction, or Revision.
+   - **Date & Time:** Include the timestamp of when the change was made.
+   - **Content:** For additions, include the new content. For subtractions and revisions, include the original content and, for revisions, the updated version.
+   - **Reason:** Briefly explain why the change was made.
+
+---
