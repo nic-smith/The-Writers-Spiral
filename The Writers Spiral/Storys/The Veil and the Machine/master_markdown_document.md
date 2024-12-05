@@ -37,13 +37,13 @@ A reluctant trio ventures into a dense forest to uncover the mysteries of the Ve
 
 ### Chapter Summaries
 
-## Prologue
+#### Prologue
 
 [Read Prologue](https://raw.githubusercontent.com/nic-smith/The-Writers-Spiral/refs/heads/master/The%20Writers%20Spiral/Storys/The%20Veil%20and%20the%20Machine/markdown/chapters_md/prologue_md.md)
 
 -Introduces Talon's vision, immersing readers in a mysterious and unsettling realm. The setting is a landscape of jagged ruins and distorted silhouettes under a murky sky, with glowing ancient symbols hinting at a lost civilization or something even more sinister. This atmospheric opening establishes a tone of mystery and sets the stage for the deeper, eerie themes of the story.
 
-### Chapter 1: Into the Unknown
+#### Chapter 1: Into the Unknown
 
 [Read Chapter 1](https://raw.githubusercontent.com/nic-smith/The-Writers-Spiral/refs/heads/master/The%20Writers%20Spiral/Storys/The%20Veil%20and%20the%20Machine/master_markdown_document.md)
 
@@ -98,7 +98,7 @@ Griffin’s Skepticism: Use his reliance on the sword to contrast Talon’s fait
 Sari’s Role: Have her tease Griffin about the sword early on, then act as a mediator when tensions rise later.
 Atmosphere: Include a moment where Griffin grips the sword for comfort, emphasizing the forest’s oppressive nature and his reliance on physical defenses.
 
-### Chapter 2: Shelter and Secrets
+#### Chapter 2: Shelter and Secrets
 
 [Read Chapter 2](https://raw.githubusercontent.com/nic-smith/The-Writers-Spiral/refs/heads/master/The%20Writers%20Spiral/Storys/The%20Veil%20and%20the%20Machine/markdown/chapters_md/chapter_2_md.md)
 
@@ -165,7 +165,7 @@ Paragraph 22: Griffin reacts to the journal with skepticism, tying it to his pre
 Paragraph 25: Sari teases Griffin about the sword, adding humor to the tension.
 Paragraph 32: Griffin reflects on the sword’s significance during a quiet moment, foreshadowing its backstory.
 
-### Chapter 3: The Veil’s Whisper
+#### Chapter 3: The Veil’s Whisper
 
 [Read Chapter 3](https://raw.githubusercontent.com/nic-smith/The-Writers-Spiral/refs/heads/master/The%20Writers%20Spiral/Storys/The%20Veil%20and%20the%20Machine/markdown/chapters_md/chapter_3_md.md)
 
@@ -245,7 +245,7 @@ Paragraph 14: Expand on Griffin’s practical use of the sword to hint at its em
 Paragraph 16: Foreshadow the sword’s significance during Talon’s observation.
 Paragraph 26: Tie the sword and medallion together thematically through dialogue between Griffin and Talon.
 
-### Chapter 4: Threads of Logic
+#### Chapter 4: Threads of Logic
 
 [Read Chapter 4](https://raw.githubusercontent.com/nic-smith/The-Writers-Spiral/refs/heads/master/The%20Writers%20Spiral/Storys/The%20Veil%20and%20the%20Machine/markdown/chapters_md/chapter_4_md.md)
 
@@ -312,7 +312,7 @@ Paragraph 26: Tie the sword and medallion together thematically through dialogue
 
 ---
 
-### Chapter 5: Into the Heat
+#### Chapter 5: Into the Heat
 
 [Read Chapter 5](https://raw.githubusercontent.com/nic-smith/The-Writers-Spiral/refs/heads/master/The%20Writers%20Spiral/Storys/The%20Veil%20and%20the%20Machine/markdown/chapters_md/chapter_5_md.md)
 
@@ -374,11 +374,18 @@ Paragraph 94: Show Griffin using the sword during the fight, highlighting its pr
 Paragraph 102: Add a reflective moment where Griffin acknowledges the sword’s emotional value.
 Paragraph 104: Contrast Griffin’s reliance on the sword with his frustration over the medallion’s power.
 
-### Chapter 6: The First Encounter
+#### Chapter 6: The First Encounter
 
 - Drones attack. Griffin’s sword reveals its first hidden power.
 
 ## Frameworks
+
+-**Prologue Framework** (https://raw.githubusercontent.com/nic-smith/The-Writers-Spiral/refs/heads/master/The%20Writers%20Spiral/Storys/The%20Veil%20and%20the%20Machine/markdown/frameworks_md/prologue_framework_md.md)
+-**Chapter 1 Framework** (https://raw.githubusercontent.com/nic-smith/The-Writers-Spiral/refs/heads/master/The%20Writers%20Spiral/Storys/The%20Veil%20and%20the%20Machine/markdown/frameworks_md/chapter_1_framework_md.md)
+-**Chapter 2 Framework** (https://raw.githubusercontent.com/nic-smith/The-Writers-Spiral/refs/heads/master/The%20Writers%20Spiral/Storys/The%20Veil%20and%20the%20Machine/markdown/frameworks_md/chapter_2_framework_md.md)
+-**Chapter 3 Framework** (https://raw.githubusercontent.com/nic-smith/The-Writers-Spiral/refs/heads/master/The%20Writers%20Spiral/Storys/The%20Veil%20and%20the%20Machine/markdown/frameworks_md/chapter_3_framework_md.md)
+-**Chapter 4 Framework** (https://raw.githubusercontent.com/nic-smith/The-Writers-Spiral/refs/heads/master/The%20Writers%20Spiral/Storys/The%20Veil%20and%20the%20Machine/markdown/frameworks_md/chapter_4_framework_md.md)
+-**Chapter 5 Framework** (https://raw.githubusercontent.com/nic-smith/The-Writers-Spiral/refs/heads/master/The%20Writers%20Spiral/Storys/The%20Veil%20and%20the%20Machine/markdown/frameworks_md/chapter_5_framework_md.md)
 
 ### Key Events
 
