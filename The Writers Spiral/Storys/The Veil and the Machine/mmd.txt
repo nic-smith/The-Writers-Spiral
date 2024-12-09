@@ -31,7 +31,6 @@
   - [Themes \& Motifs](#themes--motifs)
   - [Character Profiles (Additional Reference Link)](#character-profiles-additional-reference-link)
   - [Plot and Chapter Outline (Summaries)](#plot-and-chapter-outline-summaries)
-  - [Frameworks](#frameworks)
   - [Sword Lore and Items](#sword-lore-and-items)
     - [Griffin’s Sword](#griffins-sword)
   - [Romance and Relationships](#romance-and-relationships)
@@ -228,15 +227,6 @@ Already detailed under Metadata. Focus on gothic, hallucinatory vibes.
 ## Plot and Chapter Outline (Summaries)
 
 See Chapter Outlines above for details. Integrations suggestions for Griffin’s Sword included in Chapters 1-5 notes.
-
----
-
-## Frameworks
-
-- Prologue Framework  
-- Chapter 1-5 Frameworks
-
-(External links intact)
 
 ---
 
