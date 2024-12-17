@@ -84,6 +84,7 @@ Griffin let out a bitter sigh, slicing through the silence. “Supposed to? Talo
 Griffin’s skepticism escalates, intensifying the group’s tension and highlighting his fear of the unknown.
 
 ---
+###[TO BE REWRITTEN]: Let's look at redoing P6-P7 to introduce Griffin's sword. In P6 Sari is clearing brush with a knife. Her anxiety is high and she is woried about their supplies. The group has been the in the woods longer than they thought they would be. Griffin is going to come in at this moment, pull his sword (which is a silly weapon to have on a trip through the forest) and he is going to hack at the underbrush with excess bravado. Sari, annoyed at his show of excess of over the top strength will use her dark sarcasm to ask him something like may I ask why on a trip thought the woods you decided to bring such an impractical weapon. Griffin will quip with something scarscastic explaining how the sword is not impractical. Then Sari will go back into her "Maybe we should regroup." statement. This whole thing should be light but dark sarcastic humor. It should bite but not be overly mean and it should also be somewhat memorible because we are introducing the sword which will become very improntant in the future. You can also add some body language or a huff from Talon. 
 
 ## P6
 
