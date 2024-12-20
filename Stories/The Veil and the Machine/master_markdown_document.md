@@ -1,67 +1,5 @@
 # Master Markdown Document Template for "The Veil and the Machine"
 
-# Master Table of Contents
-- [Story Framework](#story-framework)
-- [Character Profiles](#character-profiles)
-- [Character Arcs](#character-arcs)
-- [Chapter Outlines](#chapter-outlines)
-- [Journal Entries](#journal-entries)
-- [Ideas Parking Lot](#ideas-parking-lot)
-- [Themes & Motifs](#themes-motifs)
-
-## Story Framework
-### World-building
-(Details about the world, setting, and history)
-
-### Plot Structure
-(Overview of the major plot points and act structure)
-
-### Themes & Motifs
-(Key thematic elements that run throughout the story)
-
-## Character Profiles
-### Talon
-(Bio, motivations, relationships, and goals)
-
-### Dominic
-(Details on character development, motivations, goals)
-
-## Character Arcs
-### Talon’s Arc
-(How Talon changes and what drives him)
-
-### Dominic’s Arc
-(Development and struggles)
-
-## Chapter Outlines
-### Chapter 1: [Chapter Name]
-- Key Events
-- Character Goals/Conflicts
-- Themes/Images
-
-### Chapter 2: [Chapter Name]
-- Key Events
-- Character Goals/Conflicts
-- Themes/Images
-
-## Journal Entries
-- Entry 1: [Date]
-- Entry 2: [Date]
-
-## Ideas Parking Lot
-- Unused Story Ideas
-- Character Development Ideas
-- Thematic Notes
-
-## Revision/Editing Notes
-- Areas to Improve
-- Open Questions
-
-## External Links/Resources
-- [Resource 1](link)
-- [Resource 2](link)
-
-
 ## Metadata
 
 ### Book Title
@@ -472,6 +410,7 @@ Paragraph 104: Contrast Griffin’s reliance on the sword with his frustration o
 - **Description:** Ancient, elegant, and balanced. Covered in glyphs.
 - **Lore:** Contains a hidden Veil piece, its purpose unknown initially.
 - **Key Moment:** The glyphs glow during the drone fight, helping the trio survive.
+- **Notes**: The sword is defensive and needs a catalist.
 
 ---
 

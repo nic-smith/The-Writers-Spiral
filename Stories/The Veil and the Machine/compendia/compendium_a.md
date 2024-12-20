@@ -1,4 +1,4 @@
-# Compendium A: The History of Talon, Griffin, and Sari
+# The History of Talon, Griffin, and Sari
 
 This appendix provides a comprehensive account of Talon Mercer, Sari Aydin, and Griffin Blake’s individual histories, shared experiences, and the dynamics that shape their journey.
 
