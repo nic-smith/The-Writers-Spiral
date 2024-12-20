@@ -1,0 +1,7 @@
+{
+  "Edit Word Comment": {
+    "prefix": "editcomment",
+    "body": ["[Edit: change $1 to something else]"],
+    "description": "Insert an edit comment"
+  }
+}

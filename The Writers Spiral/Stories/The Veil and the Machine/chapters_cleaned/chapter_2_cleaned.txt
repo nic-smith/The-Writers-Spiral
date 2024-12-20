@@ -1,0 +1,18 @@
+# Chapter 2: Shelter and Secrets - Markdown
+[P1]
+- **Tags**:
+[worldbuilding]
+[setting]
+[atmosphere]
+Outside, the forest pulsed with the storm’s lingering energy, heavy raindrops bouncing off leaves and pooling into fast-moving streams that cut fresh paths through the underbrush. The air was thick, charged with the scent of wet earth and the restless sway of trees caught in the gusts. Inside the cabin, though, the world felt suspended in time. The air was stale, carrying faint traces of decay. Dust floated in thin, jagged beams of fractured light slipping through cracks, illuminating uneven patches across the dim room. Shadows leapt along the walls as tree branches interrupted what little light there was. Talon took a cautious step forward, feeling the silence settle over him like a weight as his gaze swept over the sparse, abandoned remnants of a life long forgotten—so different from the raw, relentless energy they’d left behind in the forest. Sari clicked on the flashlight she’d pulled from her pack, casting a sharp beam across the shadows as the three glanced around.
+## Revisions
+### Rules for Revisions
+1. **Types of Changes**:
+- **Addition**: New content added to the chapter.
+- **Subtraction**: Existing content removed from the chapter. Includes original content for reference.
+- **Revision**: Modified content within the chapter. Includes both original and revised content.
+2. **Format**:
+- **Type:** Specify whether the change is an Addition, Subtraction, or Revision.
+- **Date & Time:** Include the timestamp of when the change was made.
+- **Content:** For additions, include the new content. For subtractions and revisions, include the original content and, for revisions, the updated version.
+- **Reason:** Briefly explain why the change was made.
