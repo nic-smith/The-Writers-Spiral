@@ -1,0 +1,19 @@
+If you do not have the Comp Story Review Questions in memory, stop and ask for me to upload the questions.
+If you do not have the Writing Style document Writing Style - Gothic-Driven Action with Hallucinogenic and Dark Christianity in memory stop and ask me to upload the document
+IF you do not have the backstories for Griffin, Sari, and Talon ask me to upload them.
+If you do not have the full framework in memory stop and ask me to upload it.
+IF you do not have the Exodus Master Outline and Framework in memory ask me to upload it.
+IF you do not have the Chapter 1-4 framework in memory as me to upload it.
+If you do not have the character list in memory as me to upload it.
+
+Review the chapter using the Comp Review Questions and give feedback. 
+
+Rewrite Chapter** rewrite the chapter based on the feedback **Do not output the text at this step.**
+
+Next, review the revised section using the Comprehensive Story Review Questions, providing feedback and a rating on a scale of 1 to 20. **Only output the primary weakness identified and the overall rating at this step.** 
+
+If the rating is below 20/20, rewrite the section based on the feedback to address the primary weakness. **Do not output the text at this step.**
+
+Continue this iterative process until the rating is at least 20/20.
+
+Output the word count to the screen, output the scene break down (action/description/dialog) to the screen and the chapter section into a text document titled the Chapter Number - Section number.

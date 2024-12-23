@@ -1,0 +1,23 @@
+Based on the prologue and chapters 1 and 2, here are some critical thoughts on what may not be working and why:
+
+1. **Prologue (Fractured Visions)**:
+   - **Ambiguity vs. Clarity**: While it’s good to create mystery with visions, the cryptic nature of Talon’s visions may be overwhelming for the reader right at the start. If the visions are too disjointed or vague, it could lead to confusion rather than intrigue. You’ll need to balance cryptic imagery with enough context so readers feel grounded, especially early in the story.
+   - **Déjà Vu Setup**: The vision-dialogue tie-in feels a little forced. While déjà vu is intriguing, having it hinge on visions may feel contrived unless there’s a clear thematic or narrative reason early on. If readers don’t see the purpose quickly enough, it risks feeling like a gimmick.
+   - **Action Interruptions**: The shift between intense action and surreal visions can break the flow of the narrative. The combat scenes might lose their punch if interrupted too frequently by dreamlike sequences. Consider how the transitions between these two modes affect pacing.
+
+2. **Chapter 1 (On the Run)**:
+   - **Group Dynamic Too Early**: The tension between Talon and Griffin is good, but it’s being introduced almost immediately, which doesn’t give the reader enough time to connect with the characters before they’re thrown into conflict. Building more camaraderie or shared history might make their current distrust feel more impactful.
+   - **Pacing and Repetition**: This chapter leads right back into the same battle from the prologue, which could feel repetitive to readers, especially if there’s no significant new information or shift in perspective. If it’s a replay of the prologue, it might reduce the excitement for the same fight scene twice.
+   - **Talon’s Lack of Agency**: Talon seems very passive here. If he’s constantly confused and unsure of the medallion’s power, readers may find it hard to root for him. Even though it’s early, giving him small moments of clarity or decision-making might help.
+
+3. **Chapter 2 (Signs of the Veil)**:
+   - **Vision Overload**: The frequent visions risk making the plot feel too abstract. If the visions aren’t advancing the story or developing Talon’s character in a meaningful way, it could lead to reader fatigue. Consider slowing down the frequency of the visions to let the tension build organically.
+   - **Griffin’s Frustration**: Griffin’s anger towards Talon over the medallion is introduced early and keeps intensifying, which could make the character feel one-note if not tempered with other dimensions of his personality. If his frustration is too dominant, he might come across as an antagonist rather than a protective ally.
+   - **Sari’s Undefined Role**: Sari is the mediator, but her emotional state and motivations seem underdeveloped compared to Talon and Griffin. Her dynamic needs more depth early on so she doesn’t just serve as a buffer between the two.
+
+### General Issues:
+   - **Emotional Depth**: The emotional responses are a bit too straightforward (fear, anger, frustration). Adding more complexity to these emotions (e.g., conflicted loyalties, hidden desires) might make the characters feel more layered. Instead of just fear of the medallion, Talon might also feel a thrill or connection that complicates his view of it.
+   - **Clarity on Medallion and Veil**: While the mystery of the medallion and the Veil is central, if it’s too drawn out without giving the reader some concrete details, the intrigue may wear thin. Make sure that every chapter offers just enough clarity or advancement on these mysteries to keep the reader invested.
+
+Overall, while the setup has potential, you’ll want to address pacing, character depth, and the balance between action and visions to keep things engaging.
+

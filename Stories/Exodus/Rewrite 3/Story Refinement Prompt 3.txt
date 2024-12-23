@@ -1,0 +1,85 @@
+### **Story Refinement Prompt**
+
+Use this prompt after every rewrite to identify weaknesses, ensure engaging storytelling, and build upon existing scenes. If a weakness is identified, the prompt will focus on **expanding** the chapter by incorporating macro, major, and minor events rather than reducing content. The goal is to enhance critical moments while increasing narrative depth and word count.
+
+---
+
+### **1. Conflict and Stakes** (Weight: 5/5)
+   - What is the central conflict in this chapter, and how does it evolve?
+   - Are the stakes clear, and do they increase as the chapter progresses?
+   - **Weakness Check**: Does the chapter lack a compelling conflict or struggle? Does it feel like nothing is truly at risk? 
+   - **Clarification Needed**: What would make the central conflict more personal or urgent for the characters? **Focus on adding macro or major events that deepen the stakes, such as unexpected threats or challenges.**
+
+### **2. Tension and Suspense** (Weight: 5/5)
+   - What elements create tension, and how is suspense maintained throughout the chapter?
+   - Are there moments of uncertainty or danger that keep the reader engaged?
+   - **Weakness Check**: Does the chapter lack moments that make the reader anxious or eager to see what happens next?
+   - **Clarification Needed**: How could tension be raised through new threats or environmental challenges? **Introduce minor events like close encounters with danger, or major events that force characters into difficult decisions.**
+
+### **3. Character Development and Complexity** (Weight: 5/5)
+   - How do the characters grow or change throughout this chapter?
+   - Do they face challenges that push them out of their comfort zone?
+   - **Weakness Check**: Are characters too passive or unchanging, making the story feel stagnant?
+   - **Clarification Needed**: What flaws or fears could the characters confront in this chapter? **Expand with macro events like internal struggles or revelations about the Veil, and minor events that showcase character dynamics.**
+
+### **4. Surprise and Unpredictability** (Weight: 4/5)
+   - Are there unexpected twists or developments that change the course of events?
+   - How do these surprises affect the characters' actions or decisions?
+   - **Weakness Check**: Does the story feel predictable or follow a formulaic path?
+   - **Clarification Needed**: What could happen that the reader wouldn’t expect, but would feel natural for the story? **Consider adding new layers through major events that reveal hidden aspects of the world or characters’ pasts.**
+
+### **5. Emotional Engagement** (Weight: 4/5)
+   - Does the chapter evoke a range of emotions (fear, hope, anger, sadness, etc.)?
+   - Are there moments when characters display vulnerability or unexpected emotions?
+   - **Weakness Check**: Does the chapter feel emotionally flat, failing to connect deeply with the reader?
+   - **Clarification Needed**: How could the stakes become more personal for the characters to heighten emotional impact? **Incorporate minor events that add internal reflections or dialogue that deepens their bond.**
+
+### **6. Pacing and Flow** (Weight: 4/5)
+   - Is the pacing appropriate, with a balance between action, dialogue, and introspection?
+   - Are there any scenes or moments that drag or feel too rushed?
+   - **Weakness Check**: Does the pacing stall due to too much introspection or repetitive actions?
+   - **Clarification Needed**: Where could the story pick up speed, or where could it slow down to add tension? **Enhance scenes by adding minor events to slow pacing or introduce major events to quicken it.**
+
+### **7. World-Building and Immersion** (Weight: 4/5)
+   - How does the setting influence the events or atmosphere in this chapter?
+   - Are the world’s rules and details revealed naturally through the story?
+   - **Weakness Check**: Does the setting feel vague or disconnected from the characters' struggles?
+   - **Clarification Needed**: What environmental challenges could the characters face that make the world feel more vivid? **Incorporate minor events like natural obstacles or major events that reveal new aspects of the world.**
+
+### **8. Dialogue and Interaction** (Weight: 4/5)
+   - Does the dialogue feel natural and contribute to character development?
+   - Are there moments of subtext, humor, or tension in character interactions?
+   - **Weakness Check**: Does dialogue feel forced, overly expositional, or out of character?
+   - **Clarification Needed**: How could characters’ words better reflect their hidden fears or motivations? **Expand interactions with minor events that add tension or humor, enhancing character depth.**
+
+### **9. Mystery and Intrigue** (Weight: 3/5)
+   - What questions remain unanswered that encourage the reader to continue?
+   - How does the chapter hint at larger mysteries or future conflicts?
+   - **Weakness Check**: Is there a lack of curiosity or unanswered questions by the chapter’s end?
+   - **Clarification Needed**: What hints could be dropped to suggest that bigger forces are at play? **Use macro events to reveal cryptic messages or visions, adding depth to the mystery.**
+
+### **10. Themes and Depth** (Weight: 3/5)
+   - What themes or ideas are explored in this chapter, and how do they deepen the story?
+   - Do the events challenge the characters’ beliefs or values?
+   - **Weakness Check**: Does the chapter feel superficial, without deeper meaning or thematic resonance?
+   - **Clarification Needed**: How could the events in this chapter reflect a core theme or question of the story? **Expand on thematic elements through major events or reflections tied to the plot’s core questions.**
+
+### **11. Hook and Ending** (Weight: 4/5)
+   - Does the chapter open with a compelling hook that grabs the reader’s attention?
+   - Does it end on a note that leaves the reader wanting more?
+   - **Weakness Check**: Does the chapter start too slowly, or does it end without creating anticipation?
+   - **Clarification Needed**: What stronger image or revelation could begin or close the chapter? **Expand the opening or ending with macro events that shift the story’s direction or deepen the sense of foreboding.**
+
+---
+
+### **Scoring System (Balanced for Expansion and Retention with Event Integration)**
+- **Rate each section** on a scale from 1 to 5, where 1 is poor and 5 is excellent.
+- **Total Score**: A score of **50 or above (out of 60)** suggests a highly engaging chapter. If the score falls below this, focus on **adding macro, major, and minor events** to increase narrative depth.
+- After rating, identify the **primary weakness** and address it by **adding or deepening** events rather than simplifying.
+
+---
+
+### **Using This Balanced Prompt with Events**
+- **After every rewrite**, use this prompt to evaluate the chapter’s strengths and weaknesses.
+- **Ask clarifying questions** if needed based on the identified weaknesses.
+- **Iterate until the chapter scores 50 or higher**, ensuring that each section is expanded with macro, major, and minor events, making the chapter dynamic and immersive.

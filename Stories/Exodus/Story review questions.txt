@@ -1,0 +1,64 @@
+Use these questions to check the story development but don't give me an output for all of the questions; only give me actions items after the review. Give me numbers and changes needed. Be harshly critical and scrutinize the story.
+
+Give me a 1-10 rating for each and a 1-20 rating for the full story or chapter, whatever is being reviewed. 
+
+**Consistency and Development Questions**
+
+**Story Consistency**
+1. **Internal Logic**:  
+   - Does every event or action in the story make sense within the established world rules?  
+   - Are there any plot points that feel unexplained or inconsistent with the setting and established events?
+   - Are there any sudden shifts in tone, pacing, or character behavior that feel out of place?
+
+2. **Backstory and Foreshadowing**:  
+   - Are all key elements of the story (e.g., character motives, important objects, or major events) properly introduced and explained before they become important?  
+   - Does any detail appear suddenly without enough background or lead-up?
+
+3. **Idea Development**:  
+   - Are all introduced ideas or themes followed through until the end, or do any disappear without resolution?  
+   - Is there enough depth to the ideas and themes to keep the reader engaged?
+
+#### **Character Consistency and Growth**
+4. **Character Actions and Motivations**:  
+   - Do the characters’ actions align with their established personalities and goals?  
+   - Are there moments where a character acts out of character without reason?
+
+5. **Character Arcs**:  
+   - Do the main characters show growth or change throughout the story?  
+   - Is there a clear evolution in their emotions, decisions, or outlook as events unfold?
+
+6. **Believability**:  
+   - Are the characters’ reactions to events believable?  
+   - Do any of their decisions seem unrealistic given the context of the story or their previous behavior?
+
+#### **Plot and Pacing Consistency**
+7. **Story Flow**:  
+   - Does the story progress smoothly, or are there parts where the pacing feels too slow or rushed?  
+   - Are there clear transitions between scenes or chapters, or do some shifts feel abrupt or disjointed?
+
+8. **Conflict and Resolution**:  
+   - Are the conflicts in the story set up clearly and resolved logically?  
+   - Does each conflict serve a purpose in advancing the plot or character development?
+
+9. **Thematic Consistency**:  
+   - Are the major themes of the story (e.g., survival, grief, love) present throughout the narrative?  
+   - Does the story stay focused on its main themes, or does it stray in a way that disrupts the overall message?
+
+10. **Writing style**:
+    - Does the writing style support the story?
+    - Is the writing unique and engaging?
+
+---
+
+**Concise Version of Questions for Consistency and Development**
+- **Does everything that happens in the story make sense and follow the established rules?**
+- **Are key plot points and ideas properly foreshadowed or introduced before they become important?**
+- **Are all introduced ideas and themes fully developed and resolved?**
+- **Do characters act in ways that align with their personalities and motivations?**
+- **Do the characters evolve or grow through the story?**
+- **Are the characters' reactions to events realistic and fitting?**
+- **Is the pacing of the story steady, or are there parts that feel rushed or slow?**
+- **Are the conflicts in the story set up clearly and resolved logically?**
+- **Are the major themes consistent and explored throughout the story?**
+
+---

@@ -109,7 +109,7 @@
 
 - **Content**: The medallion was a steady weight against Talon’s chest, cool and constant, as though reminding him of its silent pull. His mind drifted back to his father’s funeral, the moment he first felt its true weight. Until that day, the medallion had been nothing more than a family relic, a trinket tied to stories he hadn’t fully believed. But after his father’s passing, it had come alive, haunting his nights with fractured visions—glimpses of places he couldn’t recognize yet felt within him like buried memories.
 
-**Notes**: Reveals the personal significance of the medallion to Talon and introduces its connection to his visions.
+- **Notes**: Reveals the personal significance of the medallion to Talon and introduces its connection to his visions.
 
 ---
 
@@ -379,7 +379,7 @@
 
 - **Content**: Another crack of thunder, louder this time, rumbled through the forest, vibrating in the ground beneath them. The air turned colder, and scattered raindrops began to slip through the thick branches above, spattering against leaves and shoulders. The light dimmed as clouds gathered overhead, smothering the last traces of daylight. Sari exchanged a look with Talon, both feeling the storm’s encroaching threat—a force neither could ignore.
 
-**Notes**: Intensifies the approaching storm’s influence, heightening the sense of urgency and foreboding.
+- **Notes**: Intensifies the approaching storm’s influence, heightening the sense of urgency and foreboding.
 
 ---
 
@@ -425,7 +425,7 @@
 - #conflict
 - #dialogue
 
-- **Content**: Griffin looked back at Talon, skepticism flickering with a faint, reluctant hope. “So, is this where the medallion’s been dragging us?” His voice was edged with bitterness, softened only by the fatigue etched into his face, as though even his frustration had grown weary.
+- **Content**: Griffin looked back at Talon, skepticism flickering with a faint, reluctant hope. “So, is this where the medallion’s been dragging us?” His voice was edged with bitterness, softened only by the fatigue etched into his face, as though even his frustration had grown weary.  [Edit: Someone needs to ask the obmvous question "Does someone live here"]
 
 - **Notes**: Captures Griffin’s skepticism while hinting at a sliver of hope, emphasizing the strain on the group dynamic.
 

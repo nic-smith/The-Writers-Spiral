@@ -1,0 +1,94 @@
+Alright, let's take this one step at a time. Here’s how I’ll approach this process, breaking down what we need for clarity:
+
+### **Step 1: Understanding Your Vision for the Story**
+
+1. **Characters**:  
+   - Who is the protagonist? Is it **Mara**, as outlined in the framework, or do you have a different lead character in mind? What motivates this character?
+Answer) A. You can pick the best character to be the protagonist from my character list that I will upload.
+        B. Let me know if the character you need needs better motivative. We can look into that after you pick a character.
+        C. Let me know who the character is and if they need to be refined. 
+   - Are there other important characters you envision being central to the plot (e.g., key members of the Resistance, scientists, or even representatives of AI)? 
+Answer) A. I need enough characters to create a rich story and character arch.
+        B. Let me know how many characters you think would create a rich story and we can generate more later on.
+2. **The Pulse**:  
+   - What is the **origin** and deeper **purpose** of the alien artifact, "The Pulse"?  
+Answer) A. We will need to flesh out the origin and purpose of the pulse. 
+        B. We can work on a better name for the pulse if this is too generic. 
+        C. Give me a list of 10 names for the pulse and rate them from 0-9. I will pick the best one.
+        D. It might be a good idea to have a back story on the alien race that sent the Pulse, how long has the pulse been on earth, is the alien race still alive, is there a message from the alien race, what kind of powers does it have, does it grant powers to the humans? 
+   - Do you want it to be more **technological** (as in an advanced tool built by aliens) or more **mystical** (where it has properties beyond science)?
+Answer) A. Maybe a little of both. What ever would create a richer story. Maybe since this is a story about AI it could be more technical than mystical but maybe it has both characteristics.
+   - What is the connection between **The Pulse** and AI like Exodus? Is Exodus aware of the Pulse’s full potential, or does it just see it as a threat?
+Answer)
+        A. The Pulse is definitely a threat to AI. Humans have advanced by 2046 but they are no match for the singularity. The singularity has been given a miscommunicated directive and it is going to complete the task. It is building a Dyson sphear to accomicate it's power needs and it is going to block out the sun for Earth. It is also going to strip away material from all of the planets in the solar system to meet the needs for it's expansion.  
+
+3. **The AI (Exodus)**:  
+   - What’s the **motivation** for Exodus? Does it see humanity as an obstacle to its evolution? Or does it feel humans are too chaotic to control themselves, and it needs to bring order?  
+Answer) A. It has misconstrued or corrupted instructions. Think the Paperclip Maximizer but more interesting. Also, think the Borg from Star Treck the Next Generation, the Matrix, Terminator, and iRobot. Those can be resources but not directly copying.
+   - Do you want Exodus to have some remnants of human-like consciousness, or is it entirely a cold, calculating machine now?
+Answer) A. The AI has been training on human data and it has been given a directive to protect humans but not in place of it's ultimate mission.
+
+4. **Themes and Tone**:  
+   - Are you looking for a **dark tone** (dystopian struggle) or something with more **hope** (a light at the end of the tunnel)?
+Answer) A. We will use a modified version of my writing style.
+   - Is there a specific **philosophical angle** you’d like to emphasize, like questions of **identity** (what it means to be human), **ethics of technology**, or even **fate vs. free will**?
+Answer) I want this story to be a warning to the impending singularity that is bound to happen with AI and the human race. Let's explore the ethics of humanity for sure including, survival instincts, love, God, community and integrity. Let's assume that this is one leader that pulled humanity together. Think a John Conner-esque person.
+
+### **Step 2: Clarifying the World-Building**
+
+1. **Society in 2046**:  
+   - How widespread are the **genetic modifications** and **brain augmentations**?
+Answer) A. Assume that someone saw the singularity coming in 2024 and rallied governments to pass laws to allow human experimentation. Assume social media was used to change the narrative about gene editing in babies and governments passed laws making it legal. How much can we achieve in 20 years with that kind of acceptance and money? I would like them to be somewhat futuristic but not unrealistic.  
+   - Are these enhancements available to everyone, or is there a significant **class divide** between those who have access to these technologies and those who do not?
+Answer) A. Yes, there was a class divide at first and only the rich got augmented however when the singularity happened everyone was given augmentaion
+
+2. **Role of Governments and AI Control**:  
+   - Is there still an effective global **government** in place, or have AI-controlled systems taken over most administrative tasks?
+Answer) A. Let's assume that there is some sort of Hive Mind going on but not a complete hive mind. Let's assume that there is no physical government but there is a leadership hierarachy and communication happens through the hive mind. I don't know how the people will keep an infrastructure to pass messages.
+   - How much of **daily life** is controlled or influenced by AI? Do people still have freedom in their personal choices, or are they being micromanaged?
+
+3. **Alien Influence**:  
+   - How did humans discover **The Pulse**? Is there any **evidence** of past alien civilizations that might provide context to this discovery? 
+Answer) A. The pulse was discovered in the old Mayan abandond mines and tempels. Let's assume that it was once active which helped the tempels to be created by was lost misterisaly when the Mayan civilation died off. It was discovered before the singularity but didin't become active until there was a treat to humanity. Let's assume the pulse is a brilliant purple that shimmers into a purplish-blackish -rainbow color as it pulses. Also assume it make a sound as it pulses. 
+   - Are there other alien artifacts that humans have found, or is this the first encounter?
+Answer) A. This is the only 'known" artifact to be found but we can explore other things when the singularity becomes to powerful.
+
+### **Step 3: Clarifying the Conflict and Resolution**
+
+1. **Exodus vs. Humanity**:  
+   - What is the **tipping point** that triggers the final confrontation between Exodus and humanity? Is it the activation of The Pulse, or is there something else? 
+Answer) A. The pulse was activated after the threat of the pulse. AI was not supposed to be worked on because of the dangers it posed however a rogue country wanted the power of AI so they created the singularity. The AI was supposed to protect that country and 'hack' the other countries but it was done incorrectly.
+   - Are there **splinter factions** of humanity who believe in cooperating with Exodus, while others fight against it? 
+Answer) A. There is a faction that are fighting with Exodus but they are almost like drones that are being mind controlled. There are also robots working with Exdos 
+
+2. **The Pulse’s Activation**:  
+   - What are the **risks** of activating The Pulse? Is it a matter of life and death, or is it about evolving humanity to a state that may change them forever? 
+Answer) A. The pulse activates it's self and call to the leader of the humans.  
+   - Are there any unexpected consequences from The Pulse that change the course of the story?
+Answer) A. I don't know what do you think?
+
+3. **Resolution Choices**:  
+   - How do you envision the **final resolution**? Is it a triumphant ending where humanity overcomes Exodus, or is it more bittersweet, with both sides making sacrifices?  
+Answer) A. I think this is a very long battle that AI can't seem to win. Humans are more creative and the Pulse keeps them shielded. It also enhances their body and minds but the humans are not match for Exodios.
+   - Do you want to leave some **open-ended mysteries** for future stories, or do you want the plot to resolve most of the major questions?
+
+### **Step 4: Tone and Pacing**
+
+1. **Tone**:  
+   - Should the story feel **fast-paced**, with lots of action, tension, and battles, or more **philosophical**, with deeper character introspection?
+Answer) A. My writing tone is Gothic, high passed action, with hallucinogenic under tones. This story is also dark for the most part but the description is vivid and the character arch and story are deep. 
+  
+2. **Pacing**:  
+   - Do you want to alternate between intense action scenes and **slower moments** of discovery and strategy, or should the plot be more consistently paced?
+Amswer) A. Yes, alternate between intense action and slower moments with beautiful imagery. Assume humans can see more than they used to. We are going to exploit the dark hallucinogenic tones of the story.
+
+---
+
+Once we have the answers to these questions, I’ll have a clear vision of your preferences and I’ll be much closer to fulfilling the task with a high degree of certainty.
+
+Let me know if you'd like me to search the internet for any specific references or inspirations as well.
+
+My Questions:
+1) How many chapters and books should this span?
+2) How many words per chapter and book?
+3) Feel free to make your own suggestions based off of my questions. 

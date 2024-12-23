@@ -1,0 +1,8 @@
+Write the first or next half chapter:
+Evaluate the writing: Critique the writing using the "Comprehensive Story Review Ques" document as a harsh critic. Do not output feedback.
+Assess the writing: Use the feedback and calculate an overall score from 0 to 20. Output the overall score, the biggest weakness, and word count.
+Rewrite: Focusing on the biggest weakness.
+
+Walk through the above first steps and loop 5 times.
+
+Output Score: Output the final score, the word count, the final feedback, the half chapter.

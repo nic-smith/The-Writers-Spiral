@@ -1,0 +1,12 @@
+If you do not have the Comp Story Review Questions in memory, stop and ask for me to upload the questions.
+
+Output the current section and ask if it is the right Chapter and section. Wait for a reply. 
+
+Rewrite Section. **Do not output the text at this step.**
+
+Next, review the revised section using the Comprehensive Story Review Questions, providing feedback and a rating on a scale of 1 to 20. **Only output the primary weakness identified and the overall rating at this step.**
+
+If the rating is below 19/20, rewrite the section based on the feedback to address the primary weakness. **Do not output the text at this step.**
+
+Continue this iterative process until the rating is at least 19/20.
+Output the chapter section into a text document titled the Chapter Number - Section number.

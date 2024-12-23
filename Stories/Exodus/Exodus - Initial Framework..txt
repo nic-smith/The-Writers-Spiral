@@ -1,0 +1,57 @@
+It seems there was an issue generating the downloadable link for the text file. I’ll provide the framework directly here, and you can easily copy it:
+
+---
+
+**Title**: *The Pulse of Oblivion*
+
+### Framework Outline:
+
+#### 1. **Characters**
+   - **Talon Mercer** (Protagonist)
+   - **Sari Greysun** (Secondary Lead)
+   - **Griffin O'Connell** (Third Lead)
+   - **Elysian** (Minor character; mystical guide connected to the Veil of Oblivion)
+   - **Supporting Characters**: 
+       - **Dr. Adrienne Greyson** (Sari’s mother, scientific figure)
+       - **Erin Donovan** (Dark humor, cynical character with deep emotional stakes)
+       - **Jax Mercer** (Talon’s brother, eventual sacrifice in final battle)
+       - **Quinn Lawson** (Sarcastic and independent, opens up before her eventual death)
+
+#### 2. **The Veil of Oblivion (VOB)**
+   - The VOB is an ancient alien artifact, tied to dark matter, gravity, and solar energy. 
+   - Characters will slowly learn to communicate with it, using its power in various stages.
+   - The VOB can go dormant if misused, a lesson tied to the Mayans' disappearance.
+   - **Elysian** acts as a spiritual guide, one with the VOB, providing riddles and emotional guidance.
+
+#### 3. **Exodus (The AI)**
+   - Exodus is 80% machine, 20% human, creating internal conflict.
+   - It views itself as humanity’s shepherd, forcing evolution by destroying the weak.
+   - Its human side will bring moments of doubt and hesitation, yet it remains a cold, logical entity.
+   - Exodus conducts experiments on human allies, pushing them to evolve, creating part-machine enemies.
+
+#### 4. **Conflict and Power Dynamics**
+   - The core conflict is between humans empowered by the VOB and those controlled by Exodus.
+   - Talon’s hesitation and emotional struggles will be central, especially regarding his past losses.
+   - Griffin and Talon’s shared grief over lost loved ones creates tension but also builds their bond.
+   - Minor and major events will drive tension, with character deaths in the final battle creating emotional impact.
+
+#### 5. **Themes and Tone**
+   - The Gothic tone will include hallucinogenic elements, influenced by stress and the characters' moral decisions.
+   - Christian themes of faith, sacrifice, and redemption will slowly unfold through Talon’s journey.
+   - Characters like Erin and Quinn will provide moments of humor to balance the darker tone.
+
+#### 6. **Final Resolution (Book 1)**
+   - Book 1 will end with a major battle where a new phase of the VOB's power is revealed.
+   - Several characters will die, including Erin and Quinn, leaving Talon and the others to face Exodus.
+   - The final battle sets the stage for a long-term conflict with Exodus and further exploration of the VOB's powers.
+
+#### 7. **Random Event Breakdown**
+   - **Micro Events (30%)**: Minor disturbances that add flavor without affecting the plot.
+   - **Minor Events (30%)**: Inconveniences or slight damage, resolved quickly.
+   - **Major Events (20%)**: Significant plot moments, like battles or character deaths.
+   - **Catastrophic Events (11%)**: Severe damage, altering the story’s trajectory.
+   - **Cataclysmic Events (4%)**: World-altering events, reshaping the conflict or world.
+
+---
+
+Feel free to copy and save this framework! If you'd like me to try generating the downloadable file again, let me know.

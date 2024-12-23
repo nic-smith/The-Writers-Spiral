@@ -63,7 +63,7 @@
 
 - **Notes**: Adds a layer of realism to the group’s survival efforts and highlights teamwork.
 
-## **P7**
+## P7
 
 - **Tags**:
 - #reflection
@@ -76,7 +76,7 @@
 
 ---
 
-## **P8**
+## P8
 
 - **Tags**:
 - #dialogue
@@ -204,7 +204,7 @@
 
 - **Content**: Griffin nodded. “I’ll scout the area once the rain eases up. Make sure we’re clear.” He adjusted his coat and moved toward the door, his hand instinctively brushing the hilt of his sword as he passed.
 
-**Notes**: Foreshadows Griffin’s leadership and preparedness, reinforcing his role in the group.
+- **Notes**: Foreshadows Griffin’s leadership and preparedness, reinforcing his role in the group.
 
 ---
 
@@ -215,7 +215,7 @@
 
 - **Content**: As Griffin stepped out, Sari leaned closer to Talon. “Do you think he trusts us?” she asked quietly, her voice barely above a whisper.
 
-**Notes**: Opens up a layer of group dynamics, focusing on trust and internal tension.
+- **Notes**: Opens up a layer of group dynamics, focusing on trust and internal tension.
 
 ---
 
@@ -227,7 +227,7 @@
 
 - **Content**: Talon hesitated before answering. “He doesn’t have to trust us,” he replied, closing the journal and meeting her gaze. “We just have to trust that he knows what he’s doing.”
 
-**Notes**: Builds on trust issues and highlights Talon’s pragmatic approach.
+- **Notes**: Builds on trust issues and highlights Talon’s pragmatic approach.
 
 ---
 
@@ -251,7 +251,7 @@
 
 - **Content**: Griffin paused at the edge of a shallow ravine, noticing tracks in the mud. They were faint, partially washed away by the rain, but unmistakably human.
 
-**Notes**: Introduces a potential threat or mystery, increasing tension.
+- **Notes**: Introduces a potential threat or mystery, increasing tension.
 
 ---
 
@@ -262,7 +262,7 @@
 
 - **Content**: Back in the cabin, Sari stood abruptly. “We can’t just sit here. There’s got to be something in this place—something that can help us.”
 
-**Notes**: Drives action and reinforces Sari’s proactive nature.
+- **Notes**: Drives action and reinforces Sari’s proactive nature.
 
 ---
 
@@ -298,7 +298,7 @@
 
 - **Content**: Sari froze, holding up a small, folded piece of paper tucked into the lining of the chest. It was water-stained but intact. “What’s this?”
 
-- **Notes**: Introduces a key discovery, increasing intrigue.
+- - **Notes**: Introduces a key discovery, increasing intrigue.
 
 ---
 
@@ -310,7 +310,7 @@
 
 - **Content**: Unfolding it carefully, she revealed a crude drawing of a temple, its outline marked with strange, angular symbols that matched those in the journal. “Looks like he had a destination.”
 
-**Notes**: Connects Dominic’s journal to a tangible clue and sets up the next phase of the journey.
+- **Notes**: Connects Dominic’s journal to a tangible clue and sets up the next phase of the journey.
 
 ---
 
@@ -322,7 +322,7 @@
 
 - **Content**: Talon stood, his expression unreadable. “Then we don’t have time to waste.” He looked toward the window, where the rain had started to lighten. “Griffin should be back soon.”
 
-**Notes**: Drives the group toward action, reinforcing the urgency of their mission.
+- **Notes**: Drives the group toward action, reinforcing the urgency of their mission.
 
 ---
 

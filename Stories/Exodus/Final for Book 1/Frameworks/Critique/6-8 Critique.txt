@@ -1,0 +1,23 @@
+Here’s what doesn’t work or could be improved for chapters 6 through 8:
+
+### Chapter 6: The Mentor’s Arrival
+1. **Daniel’s Vague Introduction**: While cryptic mentors are a trope, Daniel’s introduction risks feeling frustrating rather than intriguing. If he’s too evasive about the Veil, readers may disengage. Give him some tangible hints or revelations that move the plot forward, even if he keeps most of the answers to himself.
+2. **Eowyn’s Quirks**: While Eowyn’s social awkwardness adds a layer of suspicion, it could feel too heavy-handed if not balanced with her technical competence. If she is too obviously “off,” the mystery surrounding her true nature may become too predictable. Consider making her oddities more subtle and spread out to build a slower reveal.
+3. **Griffin’s Constant Distrust**: Griffin is immediately suspicious of both Daniel and Eowyn, which feels repetitive given his earlier distrust of Talon. While his role as the skeptical protector is essential, if he distrusts every new character right away, his character arc risks stagnation. Perhaps he should warm to one character while still harboring suspicions about the other, adding more complexity to his reactions.
+
+### Chapter 7: The Second Connection
+1. **Artifact Revelation Feels Sudden**: Daniel’s reveal about other artifacts tied to the Veil might feel like too much too soon. Introducing this concept gradually or giving it more weight by showing why it matters to the group’s survival could increase its impact. Otherwise, it risks feeling like information overload.
+2. **Vision Fatigue**: Talon’s visions are becoming too frequent and similar. The alien world and failed attempts to control the Veil are important, but they are being repeated in different forms without much progress. These visions need to show Talon learning something new or facing a different internal struggle each time, so they don’t feel redundant.
+3. **Griffin’s Distrust Again**: Griffin’s growing suspicion of Daniel and Eowyn continues to mirror his previous feelings about Talon and the medallion. If his emotional state doesn’t vary, he may become a one-dimensional character. He needs moments of doubt or temporary trust to keep his character dynamic.
+
+### Chapter 8: Ambush at the River
+1. **Action Interruptions**: The ambush scene is full of action, but Talon’s vision once again interrupts the flow. This could frustrate readers who want to stay grounded in the tense, chaotic combat. Consider limiting the visions during action sequences or finding a way to make them feel less like a break in the narrative.
+2. **Eowyn’s Coldness**: While Eowyn’s calm efficiency in combat is meant to raise suspicions, it risks being too on-the-nose if it’s immediately obvious that she’s not fully human. Readers might guess her true nature too quickly, which could deflate the intended tension. Dial back her unnatural behavior slightly or add moments where she fakes human emotion more convincingly.
+3. **Griffin’s Distrust Repeats**: Griffin’s increasing distrust of Eowyn and his frustration with Talon are starting to feel repetitive. His reactions need to evolve; otherwise, his role in the group will stagnate. Give him a different emotional angle—perhaps a moment of guilt or regret for doubting his friends, or a situation where his skepticism saves the group, validating his fears.
+
+### Overall Issues:
+- **Vision Overuse**: Talon’s visions continue to dominate the story without moving the plot forward meaningfully. You need to decide which visions are essential to his growth or to revealing key aspects of the Veil and cut down the rest.
+- **Character Reactions Becoming Predictable**: Griffin’s constant distrust, Sari’s mediating role, and Talon’s passivity are starting to fall into predictable patterns. Each character needs moments where they break out of these roles to avoid becoming one-note.
+- **Eowyn’s True Nature Too Obvious**: Eowyn’s quirks might make her true nature too obvious too quickly. If readers figure out that she’s not fully human too early, the reveal will lose its impact. Consider slowing down the clues to stretch the mystery longer.
+
+Addressing these issues will help keep the tension high and the characters more dynamic.

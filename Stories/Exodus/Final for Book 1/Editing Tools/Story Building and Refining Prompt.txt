@@ -1,0 +1,66 @@
+### **1. Conflict and Stakes Prompt:**
+   - **Goal:** Increase the conflict or stakes in the chapter.
+   - **Refinement:** The prompt will add or intensify obstacles, tensions, or goals for the characters.
+   - **Loop Criteria:** Rate the intensity of conflict and the sense of stakes on a scale (1-5). If the score is lower than desired, refine further.
+
+Example prompt:
+*“Analyze this chapter’s conflict and stakes. Enhance the core conflict and intensify any obstacles or dangers the characters face. Ensure that the stakes are personal and urgent. Make suggestions for adjustments and improvements, and rescore based on the intensity of conflict and stakes (1-5).”*
+
+### **2. Tension and Suspense Prompt:**
+   - **Goal:** Increase the chapter’s tension and suspense.
+   - **Refinement:** The prompt will enhance the chapter by making it more suspenseful, uncertain, or filled with dread.
+   - **Loop Criteria:** Rate the tension and suspense (1-5). Refine until it feels gripping.
+
+Example prompt:
+*“Analyze this chapter for tension and suspense. Amplify any existing moments of uncertainty or dread, and add subtle cues or events to make the reader feel more on edge. Rescore based on the level of suspense and tension (1-5).”*
+
+### **3. Character Development and Complexity Prompt:**
+   - **Goal:** Deepen character growth and complexity.
+   - **Refinement:** The prompt will ensure that characters are growing, making meaningful decisions, and facing personal dilemmas.
+   - **Loop Criteria:** Rate character complexity and growth (1-5). Refine until characters feel dynamic and well-rounded.
+
+Example prompt:
+*“Review this chapter for character development and complexity. Ensure that each character grows, faces dilemmas, or is revealed to have deeper layers of motivation and personality. Make recommendations for character development and rescore (1-5) based on depth and complexity.”*
+
+### **4. Surprise and Unpredictability Prompt:**
+   - **Goal:** Add surprise and unpredictability to the chapter.
+   - **Refinement:** Introduce plot twists, surprising decisions, or unexpected events that shift the reader’s expectations.
+   - **Loop Criteria:** Rate the surprise factor and unpredictability (1-5). Refine until the chapter feels fresh and surprising.
+
+Example prompt:
+*“Examine the chapter for opportunities to add surprise or unpredictability. Introduce unexpected developments, decisions, or twists that catch the reader off guard. Rescore (1-5) based on the surprise factor.”*
+
+### **5. Emotional Engagement Prompt:**
+   - **Goal:** Increase the emotional stakes and engagement.
+   - **Refinement:** Amplify scenes that evoke strong emotions—fear, hope, anger, or sadness.
+   - **Loop Criteria:** Rate the emotional intensity (1-5). Refine until the chapter deeply engages the reader emotionally.
+
+Example prompt:
+*“Enhance the emotional engagement of the chapter. Intensify moments of emotional conflict, tension, or relief, and ensure the characters’ emotions are palpable. Rescore (1-5) based on emotional intensity and impact.”*
+
+### **6. World-Building and Immersion Prompt:**
+   - **Goal:** Strengthen the sense of world-building and immersion.
+   - **Refinement:** Add rich details or background elements that make the setting feel alive and integrated with the story.
+   - **Loop Criteria:** Rate world-building and immersion (1-5). Refine until the world feels fully realized and engaging.
+
+Example prompt:
+*“Analyze the chapter for opportunities to enhance world-building and immersion. Add detailed descriptions or background events that ground the characters in the setting. Rescore (1-5) based on the level of immersion and world-building detail.”*
+
+### **7. Dialogue and Interaction Prompt:**
+   - **Goal:** Improve dialogue and character interactions.
+   - **Refinement:** Make the dialogue more natural, layered with subtext, and reflective of character relationships.
+   - **Loop Criteria:** Rate the dialogue’s natural flow and subtext (1-5). Refine until the dialogue feels realistic and engaging.
+
+Example prompt:
+*“Review the chapter’s dialogue and character interactions. Improve the flow and ensure conversations reveal subtext, motivations, and tensions between characters. Rescore (1-5) based on dialogue quality and interaction dynamics.”*
+
+---
+
+### **Workflow for Refinement:**
+1. Apply **Conflict and Stakes** prompt and loop until desired score.
+2. Move to **Tension and Suspense**, loop until it meets your score target.
+3. Continue through each category, looping and refining until all categories hit the desired score.
+
+### **Automation**:
+- Each prompt will need a score input to automate looping (e.g., once the score reaches 4 or 5, it stops). After all loops, the chapter will be fully refined.
+ 

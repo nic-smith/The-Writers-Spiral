@@ -1,0 +1,8 @@
+Atmospheres:
+1. Silly
+2. Playful
+3. Stressful
+4. Somber
+5. Tense
+6. Celebratory
+7. Cancerous

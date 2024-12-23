@@ -1,0 +1,381 @@
+### **Talon Mercer**
+- **Age**: 26  
+- **Sex**: Male  
+- **Adaptability**: 9  
+- **Ability to Handle Pressure**: 7  
+- **Anxiety Level**: 4  
+- **Willpower**: 6  
+- **Self-Sufficiency**: 7  
+- **Drive**: 9  
+- **Attractiveness**: 7  
+- **Fear**: 5  
+- **Jaded/Cynicism**: 7  
+- **Dependability**: 6  
+- **Charisma**: 8  
+- **IQ**: 135  
+- **Empathy**: 4  
+- **Morality**: 5  
+- **Resilience**: 9  
+- **Creativity**: 3  
+- **Social Influence**: 8  
+- **Biggest Strength**: Resilience: Ability to endure hardships and keep fighting.  
+- **Biggest Flaw**: Self-Doubt: Since the loss of his brother, he feels worthless and unable to protect.  
+- **Quirk**: Always sketching under pressure.  
+- **Quirk**: Carries a portable barometer and compulsively checks weather patterns, believing he can predict the future based on the weather.  
+- **Quirk**: Gives his friends cute nicknames.  
+- **Character Notes**: Talon is emotionally closed off, not due to unrequited love but from his past experiences, such as a near-death wilderness encounter and the loss of his younger brother. His strong drive and resilience hide deep insecurity as he constantly seeks approval for his survival skills.
+
+---
+
+### **Sari Greysun**
+- **Age**: 25  
+- **Sex**: Female  
+- **Adaptability**: 7  
+- **Ability to Handle Pressure**: 6  
+- **Anxiety Level**: 6  
+- **Willpower**: 7  
+- **Self-Sufficiency**: 7  
+- **Drive**: 8  
+- **Attractiveness**: 10  
+- **Fear**: 5  
+- **Jaded/Cynicism**: 4  
+- **Dependability**: 9  
+- **Charisma**: 9  
+- **IQ**: 140  
+- **Empathy**: 8  
+- **Morality**: 8  
+- **Resilience**: 7  
+- **Creativity**: 9  
+- **Biggest Strength**: Empathy: Deep ability to understand and feel for others, making her an excellent listener and supporter.  
+- **Biggest Flaw**: Over-Commitment: Tends to take on too much responsibility, believing she must be the one to save Talon at all costs. This can lead to burnout and blind her to the fact that sometimes letting go is the most loving choice.  
+- **Quirk**: Collects small treasures: picks up seemingly insignificant objects like smooth stones, feathers, or pieces of driftwood, keeping them in a small pouch as reminders of beauty in the world.  
+- **Quirk**: Collects antique postcards and uses them as decoration, imagining herself in far-off places. Fidgets with her hair when anxious.  
+- **Character Notes**: Sari’s deep empathy and strong moral compass stem from her upbringing in a strict religious community. She is resilient externally but struggles with self-doubt, especially when balancing her desires with her principles.
+
+---
+
+### **Dystiny O'Connell**
+- **Age**: 22  
+- **Sex**: Female  
+- **Adaptability**: 8  
+- **Ability to Handle Pressure**: 5  
+- **Anxiety Level**: 6  
+- **Willpower**: 6  
+- **Self-Sufficiency**: 6  
+- **Drive**: 9  
+- **Attractiveness**: 8  
+- **Fear**: 4  
+- **Jaded/Cynicism**: 5  
+- **Dependability**: 7  
+- **Charisma**: 8  
+- **IQ**: 130  
+- **Empathy**: 6  
+- **Morality**: 6  
+- **Resilience**: 6  
+- **Creativity**: 10  
+- **Biggest Strength**: Creativity: Strong ability to think outside the box and express herself artistically.  
+- **Biggest Flaw**: Impulsivity: Tends to act without thinking, which can lead to chaos in her life.  
+- **Quirk**: Writes down song lyrics that resonate with her, using them as a form of emotional expression.  
+- **Quirk**: Creates themed playlists for different moods and situations, believing that music is a form of therapy.  
+- **Character Notes**: Dystiny is vibrant and artistic, often using music and lyrics to express her complex feelings and thoughts. Her impulsive nature sometimes gets her into trouble, but her creativity is a source of inspiration for those around her.
+
+---
+
+### **Griffin Blake**
+- **Age**: 29  
+- **Sex**: Male  
+- **Adaptability**: 8  
+- **Ability to Handle Pressure**: 7  
+- **Anxiety Level**: 5  
+- **Willpower**: 6  
+- **Self-Sufficiency**: 8  
+- **Drive**: 7  
+- **Attractiveness**: 7  
+- **Fear**: 4  
+- **Jaded/Cynicism**: 5  
+- **Dependability**: 8  
+- **Charisma**: 7  
+- **IQ**: 135  
+- **Empathy**: 6  
+- **Morality**: 6  
+- **Resilience**: 8  
+- **Creativity**: 6  
+- **Biggest Strength**: Dependability: Always there for friends and family, making him a reliable presence.  
+- **Biggest Flaw**: Over-Protectiveness: Can be overly cautious, leading to controlling behaviors that can alienate loved ones.  
+- **Quirk**: Keeps a detailed journal of his experiences, documenting everything from thoughts to encounters.  
+- **Quirk**: Collects small model airplanes, believing they symbolize freedom and escape.  
+- **Character Notes**: Griffin is a loyal friend who values relationships deeply but can struggle with letting others take risks. His protective nature stems from a childhood filled with instability.
+
+---
+
+### **Amelia Thornton**
+- **Age**: 12  
+- **Sex**: Female  
+- **Adaptability**: 8  
+- **Ability to Handle Pressure**: 3  
+- **Anxiety Level**: 7  
+- **Willpower**: 4  
+- **Self-Sufficiency**: 2  
+- **Drive**: 5  
+- **Attractiveness**: N/A  
+- **Fear**: 6  
+- **Jaded/Cynicism**: 1  
+- **Dependability**: 5  
+- **Charisma**: 8  
+- **IQ**: 120  
+- **Empathy**: 8  
+- **Morality**: 10  
+- **Resilience**: 3  
+- **Creativity**: 10  
+- **Biggest Strength**: Intuition: Uncanny ability to sense the emotions of others.  
+- **Biggest Flaw**: Naivety: Tends to trust too easily, putting her in vulnerable situations.  
+- **Quirk**: Draws maps of places she’s never been, insisting they are real and hold significance.  
+- **Quirk**: Talks to her imaginary friend as if they are a real person, often creating whimsical narratives.  
+- **Character Notes**: Amelia’s innocence contrasts with her intuitive nature, showcasing a depth beyond her years.
+
+---
+
+### **Daniel Graves**
+- **Age**: 45  
+- **Sex**: Male  
+- **Adaptability**: 8  
+- **Ability to Handle Pressure**: 10  
+- **Anxiety Level**: 1  
+- **Willpower**: 9  
+- **Self-Sufficiency**: 10  
+- **Drive**: 9  
+- **Attractiveness**: 6  
+- **Fear**: 2  
+- **Jaded/Cynicism**: 10  
+- **Dependability**: 8  
+- **Charisma**: 6  
+- **IQ**: 130  
+- **Empathy**: 1  
+- **Morality**: 3  
+- **Resilience**: 10  
+- **Creativity**: 4  
+- **Biggest Strength**: Discipline: Unwavering focus on goals.  
+- **Biggest Flaw**: Rigidity: Strict adherence to rules can prevent him from adapting.  
+- **Quirk**: Keeps a journal of every mistake he’s made and reads it daily.  
+- **Quirk**: Often uses very precise language, creating a formal tone even in casual conversations.  
+- **Character Notes**: A spiritual guide who believes every challenge is a test of faith, hiding his doubts behind a mask of certainty.
+
+---
+
+### **Kai Fowler**
+- **Age**: 30  
+- **Sex**: Non-binary (they/them)  
+- **Adaptability**: 6  
+- **Ability to Handle Pressure**: 6  
+- **Anxiety Level**: 8  
+- **Willpower**: 7  
+- **Self-Sufficiency**: 6  
+- **Drive**: 5  
+- **Attractiveness**: 9  
+- **Fear**: 5  
+- **Jaded/Cynicism**: 4  
+- **Dependability**: 6  
+- **Charisma**: 8  
+- **IQ**: 140  
+- **Empathy**: 9  
+- **Morality**: 7  
+- **Resilience**: 6  
+- **Creativity**: 10  
+- **Biggest Strength**: Creativity: Innovative thinking leads to unique solutions.  
+- **Biggest Flaw**: Impulsiveness: Quick decision-making can lead to unpredictable outcomes.  
+- **Quirk**: Hums or taps a rhythm when thinking.  
+- **Quirk**: Paints their nails in different colors to reflect their mood.  
+- **Character Notes**: Kai is vibrant and expressive, balancing creative impulses with stability.
+
+---
+
+### **Bennett Reese**
+- **Age**: 23  
+- **Sex**: Male  
+- **Adaptability**: 5  
+- **Ability to Handle Pressure**: 3  
+- **Anxiety Level**: 9  
+- **Willpower**: 4  
+- **Self-Sufficiency**: 5  
+- **Drive**: 4  
+- **Attractiveness**: 1  
+- **Fear**: 9  
+- **Jaded/Cynicism**: 3  
+- **Dependability**: 5  
+- **Charisma**: 4  
+- **IQ**: 115  
+- **Empathy**: 7  
+- **Morality**: 8  
+- **Resilience**: 4  
+- **Creativity**: 5  
+- **Biggest Strength**: Empathy: Deep understanding of others’ feelings.  
+- **Biggest Flaw**: Overwhelm: Anxiety often leads him to retreat.  
+- **Quirk**: An obsessive list maker—writes down everything in notebooks.  
+- **Quirk**: Hates the feel of felt and avoids it.  
+- **Character Notes**: Bennett struggles with self-image and anxiety, making connection difficult despite his empathy.
+
+---
+
+### **Marisol "Mari" Delgado**  
+- **Age**: 37  
+- **Sex**: Female  
+- **Adaptability**: 9  
+- **Ability to Handle Pressure**: 8  
+- **Anxiety Level**: 2  
+- **Willpower**: 9  
+- **Self-Sufficiency**: 7  
+- **Drive**: 8  
+- **Attractiveness**: 9  
+- **Fear**: 2  
+- **Jaded/Cynicism**: 8  
+- **Dependability**: 9  
+- **Charisma**: 9  
+- **IQ**: 140  
+- **Empathy**: 5  
+- **Morality**: 3  
+- **Resilience**: 10  
+- **Creativity**: 7  
+- **Biggest Strength**: Dependability: Steadfast nature makes her reliable.  
+- **Biggest Flaw**: Dismissiveness: Cynical view can disregard others’ needs.  
+- **Quirk**: Plays with a deck of cards, shuffling them while thinking.  
+- **Quirk**: Uses cards for decision-making, drawing random cards as a form of divination.  
+- **Character Notes**: Mari is strong and determined but struggles to connect emotionally due to cynicism.
+
+---
+
+### **Fox Feldman**  
+- **Age**: 70  
+- **Sex**: Male  
+- **Adaptability**: 5  
+- **Ability to Handle Pressure**: 8  
+- **Anxiety Level**: 2  
+- **Willpower**: 10  
+- **Self-Sufficiency**: 8  
+- **Drive**: 9  
+- **Attractiveness**: 4  
+- **Fear**: 6  
+- **Jaded/Cynicism**: 9  
+- **Dependability**: 4  
+- **Charisma**: 7  
+- **IQ**: 105  
+- **Empathy**: 2  
+- **Morality**: 4  
+- **Resilience**: 10  
+- **Creativity**: 6  
+- **Biggest Strength**: Willpower: Relentless pursuit of goals enables success.  
+- **Biggest Flaw**: Distrust: Cynicism can alienate others.  
+- **Quirk**: Obsessed with self-promotion, frequently talks about his achievements.  
+- **Quirk**: Uses simple, repetitive phrases that are memorable.  
+- **Character Notes**: Fox is ambitious and driven by a need to win. His need for victory can lead to poor decisions.
+
+---
+
+### **Dominic Cross**  
+- **Age**: 34  
+- **Sex**: Male  
+- **Adaptability**: 6  
+- **Ability to Handle Pressure**: 9  
+- **Anxiety Level**: 4  
+- **Willpower**: 8  
+- **Self-Sufficiency**: 7  
+- **Drive**: 6  
+- **Attractiveness**: 8  
+- **Fear**: 3  
+- **Jaded/Cynicism**: 7  
+- **Dependability**: 8  
+- **Charisma**: 9  
+- **IQ**: 145  
+- **Empathy**: 5  
+- **Morality**: 4  
+- **Resilience**: 8  
+- **Creativity**: 7  
+- **Biggest Strength**: Charisma: Persuasive and influential.  
+- **Biggest Flaw**: Manipulativeness: Exploits others for personal gain.  
+- **Quirk**: Always carries a harmonica, even though he can't play it well.  
+- **Quirk**: Has a collection of coins from every country he’s visited.  
+- **Character Notes**: Dominic is a master manipulator who values information as currency.
+
+---
+
+### **Mia Calder**  
+- **Age**: 28  
+- **Sex**: Female  
+- **Adaptability**: 9  
+- **Ability to Handle Pressure**: 5  
+- **Anxiety Level**: 8  
+- **Willpower**: 3  
+- **Self-Sufficiency**: 7  
+- **Drive**: 5  
+- **Attractiveness**: 5  
+- **Fear**: 6  
+- **Jaded/Cynicism**: 4  
+- **Dependability**: 7  
+- **Charisma**: 6  
+- **IQ**: 135  
+- **Empathy**: 9  
+- **Morality**: 7  
+- **Resilience**: 5  
+- **Creativity**: 8  
+- **Biggest Strength**: Curiosity: Drives her research and unearths hidden stories.  
+- **Biggest Flaw**: Disconnection: Obsession with history can make her seem distant.  
+- **Quirk**: Collects keys from abandoned places, believing they unlock something important.  
+- **Quirk**: Uses a specific scent or lotion that calms her.  
+- **Character Notes**: Mia is a town historian whose knowledge of the past often disconnects her from the present.
+
+---
+
+### **Alexei Voronov**
+- **Age**: 35  
+- **Sex**: Male  
+- **Adaptability**: 8  
+- **Ability to Handle Pressure**: 4  
+- **Anxiety Level**: 7  
+- **Willpower**: 9  
+- **Self-Sufficiency**: 5  
+- **Drive**: 7  
+- **Attractiveness**: 6  
+- **Fear**: 6  
+- **Jaded/Cynicism**: 5  
+- **Dependability**: 8  
+- **Charisma**: 7  
+- **IQ**: 130  
+- **Empathy**: 4  
+- **Morality**: 5  
+- **Resilience**: 8  
+- **Creativity**: 6  
+- **Biggest Strength**: Willpower: Determination helps him push through challenges.  
+- **Biggest Flaw**: Lack of Empathy: Struggles to connect emotionally with others.  
+- **Quirk**: Enjoys making up elaborate backstories for strangers he observes.  
+- **Quirk**: Taps fingers constantly when anxious, creating a rhythmic pattern.  
+- **Character Notes**: Alexei balances ambition with a fear of failure, navigating his emotional landscape while building meaningful connections.
+
+---
+
+### **Iatros Kohler**
+- **Age**: 44  
+- **Sex**: Female  
+- **Adaptability**: 7  
+- **Ability to Handle Pressure**: 9  
+- **Anxiety Level**: 3  
+- **Willpower**: 10  
+- **Self-Sufficiency**: 9  
+- **Drive**: 9  
+- **Attractiveness**: 4  
+- **Fear**: 3  
+- **Jaded**: 5
+- **Cynicism**: 7  
+- **Dependability**: 8  
+- **Charisma**: 5  
+- **IQ**: 145  
+- **Empathy**: 2  
+- **Morality**: 4  
+- **Resilience**: 10  
+- **Creativity**: 7  
+- **Biggest Strength**: Willpower: Relentless pursuit of goals enables success.  
+- **Biggest Flaw**: Emotional Insight: Rational approach can neglect others' feelings.  
+- **Quirk**: Obsessed with photographing abandoned places.  
+- **Quirk**: Keeps a collection of meaningful quotes for guidance.  
+- **Character Notes**: Iatros is driven, often sacrificing relationships for goals, learning to balance ambition with compassion.
+
+---
+

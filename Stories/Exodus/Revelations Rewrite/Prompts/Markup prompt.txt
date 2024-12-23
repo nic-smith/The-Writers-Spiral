@@ -1,0 +1,16 @@
+Markup prompt
+
+Prompt Template for Markup Conversion with Tags
+Instructions:
+Provide the text in chunks for better processing.
+Assign tags that best categorize the content.
+Retain paragraph numbers for easy cross-referencing.
+Structure the content in markdown format for seamless storage and readability.
+Prompt Example
+"Take the following content and convert it into a markdown document with the following format:
+
+Retain paragraph numbers as P[number] headers.
+Add a Tags section after each paragraph, listing all relevant tags (e.g., #worldbuilding, #character, #conflict).
+Preserve the original paragraph content as-is under each header.
+Add a Notes section after each paragraph, summarizing or flagging any critical points if needed.
+Use markdown formatting for headings, tags, and organization.

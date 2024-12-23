@@ -1,0 +1,69 @@
+### **Story Refinement Prompt**
+
+**Purpose**: Use this prompt after every rewrite to identify weaknesses, ensure engaging storytelling, and build upon existing scenes. If a weakness is identified, the prompt will focus on **expanding** the chapter by incorporating macro, major, and minor events through an **internal event loop**. This loop allows each new event to be fully developed in isolation before integrating it into the narrative. This method aims to prevent reductions in word count by ensuring that all additions are substantial.
+
+---
+
+### **1. Conflict and Stakes** (Weight: 5/5)
+   - What is the central conflict in this chapter, and how does it evolve?
+   - Are the stakes clear, and do they increase as the chapter progresses?
+   - **Weakness Check**: Does the chapter lack a compelling conflict or struggle? Does it feel like nothing is truly at risk?
+   - **Clarification Needed**: What would make the central conflict more personal or urgent for the characters?
+   - **Event Loop Step**: **Write a macro or major event that deepens the stakes** (e.g., a new enemy attack or a personal revelation). Write this event separately, fully flesh out its details, and ensure it introduces new conflict. Once the event is refined, integrate it into the chapter and review how it impacts the overall story.
+
+### **2. Tension and Suspense** (Weight: 5/5)
+   - What elements create tension, and how is suspense maintained throughout the chapter?
+   - Are there moments of uncertainty or danger that keep the reader engaged?
+   - **Weakness Check**: Does the chapter lack moments that make the reader anxious or eager to see what happens next?
+   - **Clarification Needed**: How could tension be raised through new threats or environmental challenges?
+   - **Event Loop Step**: **Write a minor or major event focused on raising suspense** (e.g., a close call with danger or a treacherous environment). Refine this event in isolation, adding sensory details and character reactions. Once the scene is detailed, merge it back into the chapter.
+
+### **3. Character Development and Complexity** (Weight: 5/5)
+   - How do the characters grow or change throughout this chapter?
+   - Do they face challenges that push them out of their comfort zone?
+   - **Weakness Check**: Are characters too passive or unchanging, making the story feel stagnant?
+   - **Clarification Needed**: What flaws or fears could the characters confront in this chapter?
+   - **Event Loop Step**: **Develop an event where a character faces a fear or makes a difficult decision** (e.g., a moment of doubt, a confrontation with another character). Write and refine this scene until it is layered with emotional complexity. Integrate the scene into the chapter after refining.
+
+### **4. Surprise and Unpredictability** (Weight: 4/5)
+   - Are there unexpected twists or developments that change the course of events?
+   - How do these surprises affect the characters' actions or decisions?
+   - **Weakness Check**: Does the story feel predictable or follow a formulaic path?
+   - **Clarification Needed**: What could happen that the reader wouldn’t expect, but would feel natural for the story?
+   - **Event Loop Step**: **Write a macro or major event that introduces a twist** (e.g., an unexpected ally or new danger). Focus on making it logical but surprising. Refine this twist outside the main story draft and only integrate it once the twist is impactful.
+
+### **5. Emotional Engagement** (Weight: 4/5)
+   - Does the chapter evoke a range of emotions (fear, hope, anger, sadness, etc.)?
+   - Are there moments when characters display vulnerability or unexpected emotions?
+   - **Weakness Check**: Does the chapter feel emotionally flat, failing to connect deeply with the reader?
+   - **Clarification Needed**: How could the stakes become more personal for the characters to heighten emotional impact?
+   - **Event Loop Step**: **Write a minor or major event that adds emotional depth** (e.g., a character reflecting on a loss or a heartfelt exchange). Fully develop the emotional beats of the scene, ensuring each character’s response is clear and natural. Integrate this after refining for depth.
+
+### **6. Pacing and Flow** (Weight: 4/5)
+   - Is the pacing appropriate, with a balance between action, dialogue, and introspection?
+   - Are there any scenes or moments that drag or feel too rushed?
+   - **Weakness Check**: Does the pacing stall due to too much introspection or repetitive actions?
+   - **Clarification Needed**: Where could the story pick up speed, or where could it slow down to add tension?
+   - **Event Loop Step**: **Write minor events that adjust the pace** (e.g., an intense chase sequence or a quiet moment of introspection). Refine for flow and timing before weaving the scenes into the main story.
+
+### **7. World-Building and Immersion** (Weight: 4/5)
+   - How does the setting influence the events or atmosphere in this chapter?
+   - Are the world’s rules and details revealed naturally through the story?
+   - **Weakness Check**: Does the setting feel vague or disconnected from the characters' struggles?
+   - **Clarification Needed**: What environmental challenges could the characters face that make the world feel more vivid?
+   - **Event Loop Step**: **Write a major or minor event that emphasizes the world’s influence** (e.g., encountering a Veil-altered landscape or ancient ruins). Focus on vivid descriptions and the characters’ interaction with the setting. Integrate the fully developed scene afterward.
+
+### **8. Dialogue and Interaction** (Weight: 4/5)
+   - Does the dialogue feel natural and contribute to character development?
+   - Are there moments of subtext, humor, or tension in character interactions?
+   - **Weakness Check**: Does dialogue feel forced, overly expositional, or out of character?
+   - **Clarification Needed**: How could characters’ words better reflect their hidden fears or motivations?
+   - **Event Loop Step**: **Write a scene of dialogue** that explores the subtext between characters or reveals hidden tensions. Refine it until the interaction feels natural and layered. Integrate the dialogue scene once it enriches the character dynamics.
+
+---
+
+### **Scoring System with Event Loop**
+- **Check the word count** Looking for around 3500 words within 5% in ether direction. If the story falls below 5% of 3500 words add events to add content. 
+- **Rate each section** on a scale from 1 to 5, where 1 is poor and 5 is excellent.
+- **Total Score**: A score of **50 or above (out of 60)** suggests a highly engaging chapter. If the score falls below this, continue refining the separate events through the loop before merging them into the story.
+- After each integration, re-evaluate the chapter to ensure that added events enhance the narrative depth.

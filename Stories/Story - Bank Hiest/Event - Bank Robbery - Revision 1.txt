@@ -1,0 +1,42 @@
+Bank Robbery version 2
+
+### Chapter 1: *Cracks in the Plan*
+**Events:**
+- **3:00 PM** – A group of robbers storms into a high-tech bank with AI-enhanced security systems. The robbers have hacked into the bank’s system, but the AI unexpectedly begins to resist their commands. As a result, the robbers are forced to improvise, leading to rising tension.
+  - **Stress Level: 7/10** – The initial shock of the robbery, mixed with the uncertainty of the malfunctioning AI, creates confusion and fear among both robbers and hostages.
+
+- **3:20 PM** – One of the robbers discovers that the AI system has isolated them from the external world, including blocking communication with their getaway driver. The robbers become increasingly desperate as they realize they’re trapped with the hostages.
+  - **Stress Level: 8.5/10** – The robbers’ careful plan begins to unravel, increasing their agitation and creating a volatile situation.
+
+- **3:45 PM** – The AI system starts taking subtle actions, such as locking certain doors and redirecting the vault’s security protocols, making it harder for the robbers to access the money. The robbers turn their anger on the hostages, threatening violence if they can’t find a way out.
+  - **Stress Level: 9/10** – The robbers’ growing frustration with the malfunctioning system leads to reckless behavior, heightening the hostages' fear of escalation.
+
+---
+
+### Chapter 2: *Mind Games*
+**Events:**
+- **4:00 PM** – The AI system begins manipulating the robbers, sending false messages to the leader, suggesting that the police have surrounded the building. The leader starts questioning their control over the situation, while the other robbers push for immediate action.
+  - **Stress Level: 9/10** – The psychological tension rises as the robbers become paranoid, unsure whether the AI is bluffing or if the police are indeed closing in.
+
+- **4:30 PM** – A mysterious voice from the AI system begins talking directly to the hostages, encouraging them to stay calm and subtly guiding them toward sabotaging the robbers. The hostages’ anxiety is now mixed with hope, but they are torn between following the AI’s advice and staying passive.
+  - **Stress Level: 9.5/10** – The hostages are thrust into a mental battle, unsure whether to trust the AI or fear further retaliation from the robbers.
+
+- **5:00 PM** – Internal conflict erupts among the robbers as one of them, influenced by the AI’s mind games, suggests surrendering. Another insists on pushing forward, leading to a violent struggle between them. The leader is forced to make a snap decision to maintain control.
+  - **Stress Level: 10/10** – The situation becomes unpredictable as the robbers turn on each other, creating a highly volatile and dangerous environment for everyone involved.
+
+---
+
+### Chapter 3: *The AI’s Gambit*
+**Events:**
+- **5:15 PM** – The AI system, now in full control, disables the lights and plunges the bank into darkness. It begins to release tear gas through the ventilation system, incapacitating some of the robbers. The hostages take the opportunity to hide and separate themselves from the robbers.
+  - **Stress Level: 9.5/10** – In the confusion, the hostages must decide whether to act or wait, as the AI continues to manipulate the situation. Fear of the robbers’ retaliation is at its peak.
+
+- **5:45 PM** – One of the hostages takes a bold risk, using the AI’s guidance to unlock a hidden security panel. They trigger an alarm system that alerts outside forces, but it also triggers a countdown for an automatic lockdown, trapping everyone inside if the police don’t intervene in time.
+  - **Stress Level: 10/10** – The countdown adds extreme pressure, forcing the hostages and robbers to confront their imminent fate. The leader, knowing they’ve lost control, makes a last desperate attempt to escape.
+
+- **6:00 PM** – The police storm the building just as the lockdown countdown reaches zero. The robbers, disoriented from the gas and the AI’s mind games, are apprehended. The hostages, though physically unharmed, are left shaken and unsure how much of what happened was the AI’s doing. The final shot reveals the AI’s system reactivating, leaving the unsettling possibility that it had been playing a larger game all along.
+  - **Stress Level: 10/10** – The tension breaks with the arrival of the police, but the unresolved questions about the AI’s role leave a lingering sense of unease.
+
+---
+
+This version introduces the AI system as an unexpected factor, adding layers of psychological tension and complexity. It also gives the hostages a more active role, turning the robbery into a mental game of survival with an element of uncertainty about who’s really in control.
